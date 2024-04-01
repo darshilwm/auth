@@ -1,4 +1,4 @@
 
 # auth
 
-signup,sigin,logout
+signup,signin,logout
